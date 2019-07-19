@@ -1,0 +1,24 @@
+.trans {
+    height: 0px;
+    overflow: hidden;
+    transition: all 3s ease;
+    -webkit-transition: all 3s ease;
+}
+.trans-active {
+    height: 800px;
+}
+.copyright {
+    background-color: #1a252f;
+    color: #a8a9ad;
+}
+.my-footer {
+    background-color: #1b3a5e;
+    color: #5bc0de;
+}
+.lines {
+    background-color: #5bc0de;
+    height: 5px;
+}
+.soc-med {
+    color: #5bc0de;
+}
